@@ -2,3 +2,4 @@
 string isim = Console.ReadLine();
 Console.WriteLine("Hoşgeldin " + isim);
 
+Console.WriteLine("Github ogreniyorum");
