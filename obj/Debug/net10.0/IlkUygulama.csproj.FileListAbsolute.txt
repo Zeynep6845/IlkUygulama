@@ -1,0 +1,17 @@
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/bin/Debug/net10.0/IlkUygulama
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/bin/Debug/net10.0/IlkUygulama.deps.json
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/bin/Debug/net10.0/IlkUygulama.runtimeconfig.json
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/bin/Debug/net10.0/IlkUygulama.dll
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/bin/Debug/net10.0/IlkUygulama.pdb
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.AssemblyInfoInputs.cache
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.AssemblyInfo.cs
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.csproj.CoreCompileInputs.cache
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.dll
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/refint/IlkUygulama.dll
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.pdb
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.genruntimeconfig.cache
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/ref/IlkUygulama.dll
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/bin/Debug/net10.0/Serilog.dll
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygulama.csproj.AssemblyReference.cache
+/Users/zeynepayar/Projects/ders/console uyg/IlkUygulama/obj/Debug/net10.0/IlkUygul.1AC8E11F.Up2Date

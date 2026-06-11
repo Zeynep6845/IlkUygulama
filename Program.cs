@@ -1,0 +1,4 @@
+﻿Console.WriteLine("Adınız?");
+string isim = Console.ReadLine();
+Console.WriteLine("Hoşgeldin " + isim);
+
